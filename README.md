@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Saumya Shah<br>🎓 2nd year student at Dhirubhai Ambani University<br>💻 Learning Data Analytics & DSA (college curriculum)
+👋 Hi, I'm Saumya Shah<br>🎓 2nd year student at Dhirubhai Ambani University<br>💻 Learning Machine Learning & DSA (college curriculum)
 
 
 ## 🌐 Socials:
